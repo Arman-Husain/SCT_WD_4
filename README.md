@@ -18,6 +18,9 @@ A modern, full-stack Todo application built with React, designed and developed a
 - **Edit Tasks** – Update tasks with ease.
 
 ---
+## Screenshot
+![Uploading todo.png…]()
+
 
 ## 🖥️ Tech Stack
 

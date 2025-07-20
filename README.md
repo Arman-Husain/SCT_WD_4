@@ -84,6 +84,15 @@ Pull requests are welcome! Please open an issue or submit a PR.
 
 ---
 
-## 👤 Author & Internship
+📫 Connect with Me
+🔗 LinkedIn
 
-Developed by [Arman-Husain](https://github.com/Arman-Husain) for the **Skillcraft Internship** program.
+💻 GitHub
+
+## 👤 Author
+
+**Arman Husain**  
+🌍 India  
+🎓 Pursuing B.Tech in (CSE) aiml specilization   
+💬 Passionate about clean UI, animations, and full-stack web apps.  
+✉️ armanhusain@example.com  

@@ -19,7 +19,9 @@ A modern, full-stack Todo application built with React, designed and developed a
 
 ---
 ## Screenshot
-![Uploading todo.png…]()
+
+<img width="1919" height="1079" alt="todo" src="https://github.com/user-attachments/assets/2b93316b-9671-4286-92ae-ec658d3a0bd7" />
+
 
 
 ## 🖥️ Tech Stack
